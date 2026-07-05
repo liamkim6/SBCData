@@ -6,6 +6,7 @@ Seoul Beauty Club의 제품 실험 설계와 PRD(제품 요구사항 문서)를 
 
 | 경로 | 내용 |
 |---|---|
+| [docs/planning/2026-W28-product-planning.md](docs/planning/2026-W28-product-planning.md) | **이번 주** 주간 프로덕트 플래닝 초안 (2026 W28, 7/6–7/12) |
 | [docs/experiments/00-experiment-overview.md](docs/experiments/00-experiment-overview.md) | 실험 전체 구조, 로드맵, 공통 지표 및 가드레일 |
 | [docs/prd/01-free-addon-reward-test.md](docs/prd/01-free-addon-reward-test.md) | **[우선순위 1]** 첫 박스 수령자 대상 첫 리뷰 크레딧 리워드 테스트 PRD (첫 리뷰 작성 → 20크레딧) |
 | [docs/prd/02-hybrid-recommendation-discovery.md](docs/prd/02-hybrid-recommendation-discovery.md) | 하이브리드 추천(소셜 × 콘텐츠 × 트렌딩) 및 태그/라벨 실험 PRD |
@@ -21,6 +22,7 @@ Seoul Beauty Club의 제품 실험 설계와 PRD(제품 요구사항 문서)를 
 
 ## 문서 규칙
 
+- 주간 플래닝 파일명: `docs/planning/YYYY-Wnn-product-planning.md` (ISO 주차 기준, 매주 초안 작성 → 플래닝 미팅에서 확정)
 - PRD 파일명: `NN-slug.md` (NN은 우선순위 순번)
 - 실험 상태: `Draft` → `Review` → `Approved` → `Running` → `Analyzing` → `Done`
 - 프로그램(비실험, 단계적 론칭) 상태: `Draft` → `Review` → `Approved` → `Phase 1` → `Phase 2` → `Phase 3` → `GA`
